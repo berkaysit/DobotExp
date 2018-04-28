@@ -1,4 +1,5 @@
 # Berkay Sit, 2018
+# Issue 1...
 
 import threading
 import DobotDllType as dType
